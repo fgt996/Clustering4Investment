@@ -27,7 +27,7 @@ This is the scheme followed:
 
 
 ## Reference:
-### An unsupervised learning framework for marketneutral portfolio
+"An unsupervised learning framework for marketneutral portfolio"
 S.Cuomo, F.Gatta, F.Giampaolo, C.Iorio, F.Piccialli
 Expert Systems with applications (2022) 
 https://doi.org/10.1016/j.eswa.2021.116308
