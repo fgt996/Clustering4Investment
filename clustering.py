@@ -1,4 +1,4 @@
-def Clustering(saved_rf):h
+def Clustering(saved_rf):
     '''
     Create the clusters from Idx saved for each asset
     INPUT:
