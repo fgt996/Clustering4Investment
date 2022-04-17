@@ -32,7 +32,7 @@ def Minimal_Variance_Portfolio(X_Train, X_Test,
                             constraints=[constr_non],
                             bounds=dominio)
     weights = minimal_variance.x
-    #Create Minimal Variance returnss
+    #Create Minimal Variance returns
     port_minimal = zeros(len(X_Test.index))
     for n_col, col in enumerate(X_Test.columns):
         port_minimal += X_Test[col] * weights[n_col]
