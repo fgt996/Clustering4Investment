@@ -1,4 +1,4 @@
-from pandas import Seriesd
+from pandas import Series
 
 def Percentage_Profit(X):
     '''
