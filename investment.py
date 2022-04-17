@@ -1,5 +1,5 @@
 from utils import l1_norm, PooledRegression, Var_Port, Expected_Sharpe, Return2Value
-d
+
 
 def MarketNeutral_Portfolio(XD, XTrain, cluster, target_function,
                             windows_number=10, scaler='Standard',
