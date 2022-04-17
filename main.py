@@ -1,4 +1,4 @@
-import benchmarks, clustering, evaluation, investment, risk_factors, utils
+from C4I import benchmarks, clustering, evaluation, investment, risk_factors, utils
 import pandas as pd
 import numpy as np
 import pickle
