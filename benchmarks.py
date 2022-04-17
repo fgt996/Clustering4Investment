@@ -1,6 +1,6 @@
 from utils import l1_norm, Return2Value, Var_Port, Mean_Variance
 
-p
+
 def Minimal_Variance_Portfolio(X_Train, X_Test,
                                opt_hyp={'maxiter':200,'disp':True,'ftol':1e-12},
                                initial_capital=1000):
