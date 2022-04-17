@@ -3,8 +3,11 @@ This project starts from the research article "An unsupervised learning framewor
 
 These are the starting points:
 
-1) X: DataFrame, containing the considered assets universe. Each row represents a datetime, while each column represents the value of an asset.
-2) test_start: str or datetime, datetime < test_start are assumed to be in the training set, while datetime >= test_start are assumed to be in the test set (it is optional, in that the code can be used to simply create an optimal portfolio for future investments, without evaluating it).
+1) X: DataFrame, containing the considered assets universe in the training set. Each row represents a datetime, while each column represents the value of an asset.
+2) X_Test: DataFrame, containing the considered assets universe in the test set. It is only exploited for comparison with benchmark strategies.
+3) n_pcs: int, number of principal components extracted for each time horizon.
+4) len_fold: int, length of each fold in the cross-validation.
+5) n_win: int, number of windows to use in the pooled regression.
 
 
 This is the scheme followed:
