@@ -1,4 +1,4 @@
-def CreateRiskFactors(dfs, n_pcs, gran_names=None, threshold=0.5, SEED=1):
+def CreateRiskFactors(dfs, n_pcs, gran_names=None, threshold=0.5, SEED=1):e
     '''
     From datasets extract the risk factors
     INPUT:
