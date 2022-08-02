@@ -1,5 +1,5 @@
 # Clustering4Investment
-This project starts from the research article "An unsupervised learning framework for marketneutral portfolio". It contains some code related to the experimental part of the paper. In particular, a study of multiple time-horizons risk factors is carried out.
+This project contains some code related to the construction of an investment strategy based on clustering. In particular, a study of multiple time-horizons risk factors is carried out.
 
 These are the starting points:
 
@@ -19,18 +19,3 @@ This is the scheme followed:
 5) Among all the possible market-neutral portfolios (one within each cluster), select and create an equally-weighted portfolio made up of the optimal three ones.
 
 
-
-
-
-
-
-
-
-
-
-
-## Reference:
-"An unsupervised learning framework for marketneutral portfolio"
-S.Cuomo, F.Gatta, F.Giampaolo, C.Iorio, F.Piccialli
-Expert Systems with applications (2022) 
-https://doi.org/10.1016/j.eswa.2021.116308
