@@ -34,3 +34,9 @@ This is the scheme followed:
 S.Cuomo, F.Gatta, F.Giampaolo, C.Iorio, F.Piccialli
 Expert Systems with applications (2022) 
 https://doi.org/10.1016/j.eswa.2021.116308
+
+
+"Statistical arbitrage in the stock markets by the means of multiple time horizons clustering"
+F.Gatta, C.Iorio, D.Chiaro, F.Giampaolo, S.Cuomo
+Neural Computing and Applications (2023) 
+https://link.springer.com/article/10.1007/s00521-023-08313-6
