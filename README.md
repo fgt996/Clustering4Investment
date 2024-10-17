@@ -1,5 +1,5 @@
 # Clustering4Investment
-This project starts from the research article "An unsupervised learning framework for marketneutral portfolio". It contains some code related to the experimental part of the paper. In particular, a study of multiple time-horizons risk factors is carried out.
+This project starts from the research articles "An unsupervised learning framework for marketneutral portfolio" and ""Statistical arbitrage in the stock markets by the means of multiple time horizons clustering"". It contains some code related to the experimental part of the paper. In particular, a study of multiple time-horizons risk factors is carried out.
 
 These are the starting points:
 
